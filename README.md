@@ -11,3 +11,5 @@ For round N:
 The fingerprint of the holder file is locked on Solana before the draw. The Round proof page on https://www.pfpills.com/#fair downloads these files, checks them against the chain and recomputes the winners in your browser.
 
 These files are written by the project's draw service. They are checked against the chain, not trusted: a changed file does not match the fingerprint on chain.
+
+No round has been drawn yet: files appear here after launch.
